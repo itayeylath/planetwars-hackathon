@@ -4,11 +4,10 @@
 
 ## About
 
-Hacathon with <a herf="https://pagaya.com/">Pagaya company</a> by "Cyber4s" bootcamp.
+Hacathon with <a herf="https://pagaya.com/">"Pagaya"</a> company by <a herf="hhttps://suvelocity.org/">"Cyber4s"</a> bootcamp.
 
-At wednesday, August 3rd, We met in Tel-aviv in Pagaya offices, when Python was new to us.
-We competed with each other, while working as a team.
-And the best AI won 😎
+On Wednesday, August 3rd, We were gathered at "Pagaya" offices in Tel-Aviv, when Python was a new technology for us. We were divided into groups of 3 to build the best AI, And the best AI won 😎
+
 <b>Our project is "the_killers.py" file.<b>
 
 Planet wars spec:
