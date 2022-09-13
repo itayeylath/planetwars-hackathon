@@ -21,7 +21,7 @@ https://github.com/ronoi99/PlanetWars
 
 ## Technologies
 
-<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" width="100" hight="1500">
+<img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-1024.png" width="100" hight="150">
 
 ## Team "The killers"
 ```
@@ -33,3 +33,6 @@ https://github.com/ronoi99/PlanetWars
 ```
 @ycassuto Yuval Cassuto
 ```
+<img src="hackton-1.jpeg" width="300" hight="150"><img src="hackton-2.jpeg" width="300" hight="150">
+
+<img src="all-class-1.jpeg" width="300" hight="150"><img src="all-class-3.jpg" width="300" hight="150">
